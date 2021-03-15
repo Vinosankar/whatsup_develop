@@ -3,3 +3,5 @@
 			fos.write(bytes);
 			fos.close();
 			fos.close();
+			video;
+			audio;
