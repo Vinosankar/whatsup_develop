@@ -2,3 +2,4 @@
 			FileOutputStream fos = new FileOutputStream("");
 			fos.write(bytes);
 			fos.close();
+			fos.close();
